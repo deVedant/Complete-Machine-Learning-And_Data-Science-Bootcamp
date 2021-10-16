@@ -17,7 +17,3 @@ Welcome! This repository contains all of the code, notebooks, images and other m
 * Section 4 - Neural networks, deep learning and transfer learning with TensorFlow 2.0
 * Section 5 - Communicating and sharing your work
 
-## Things that are not included
-* Integration with the front end.
-* Xgboost not included.
-* misses in-dept data analysis.
