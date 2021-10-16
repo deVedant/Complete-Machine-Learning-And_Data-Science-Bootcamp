@@ -20,3 +20,4 @@ Welcome! This repository contains all of the code, notebooks, images and other m
 ## Things that are not included
 * Integration with the front end.
 * Xgboost not included.
+* misses in-dept data analysis.
